@@ -158,7 +158,7 @@ Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, 
 - [AWS DataExchange and Amazon SageMaker for sharing data for ML workloads](https://aws.amazon.com/blogs/machine-learning/building-machine-learning-workflows-with-aws-data-exchange-and-amazon-sagemaker/)
 - [Semantic segmentation labeling with Amazon SageMaker Ground Truth](https://aws.amazon.com/blogs/machine-learning/auto-segmenting-objects-when-performing-semantic-segmentation-labeling-with-amazon-sagemaker-ground-truth/)
 - [Amazon SageMaker multi-model inference endpoints](https://aws.amazon.com/blogs/machine-learning/save-on-inference-costs-by-using-amazon-sagemaker-multi-model-endpoints/)
-- [Annotate DICOM images and build an ML model] (https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/)
+- [Annotate DICOM images and build an ML model](https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/)
 - [Batch Inference with Amazon SageMaker and Tensorflow](https://aws.amazon.com/blogs/machine-learning/performing-batch-inference-with-tensorflow-serving-in-amazon-sagemaker/)
 - [Optimizing TensorFlow model serving with Kubernetes and Amazon Elastic Inference](https://aws.amazon.com/blogs/machine-learning/optimizing-tensorflow-model-serving-with-kubernetes-and-amazon-elastic-inference/)  
 - [Power contextual bandits using continual learning with Amazon SageMaker RL](https://aws.amazon.com/blogs/machine-learning/power-contextual-bandits-using-continual-learning-with-amazon-sagemaker-rl/)
