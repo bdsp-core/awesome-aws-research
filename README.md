@@ -16,6 +16,7 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 - [Security](#security)
 - [Robotics](#robotics)
 - [Management & Governance](#management-&-governance)
+- [Genomics](#Genomics)
 
 ## Getting Started
 
@@ -178,6 +179,9 @@ Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, 
 - [De-identify medical images with the help of Amazon Comprehend Medical and Amazon Rekognition](https://aws.amazon.com/blogs/machine-learning/de-identify-medical-images-with-the-help-of-amazon-comprehend-medical-and-amazon-rekognition/)
 - [Map clinical notes to the OMOP Common Data Model and healthcare ontologies using Amazon Comprehend Medical](https://aws.amazon.com/blogs/machine-learning/map-clinical-notes-to-the-omop-common-data-model-and-healthcare-ontologies-using-amazon-comprehend-medical/)
 - [Population health applications with Amazon HealthLake](https://aws.amazon.com/blogs/machine-learning/population-health-applications-with-amazon-healthlake-part-1-analytics-and-monitoring-using-amazon-quicksight/)
+- [Introduction to Amazon Transcribe](https://www.aws.training/Details/Video?id=19443&trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
+- [Introduction to Amazon Comprehend Medical](https://www.aws.training/Details/Video?id=27159&trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
+- [Enabling efficient patient care using Amazon AI services](https://aws.amazon.com/blogs/industries/enabling-efficient-patient-care-using-amazon-ai-services/?trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
 
 ### Videos
 
@@ -187,6 +191,7 @@ Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, 
 - [Amazon SageMaker deep dive: A modular solution for machine learning](https://www.youtube.com/watch?v=Ac5m4-xWtCU)
 - [ Insights into patient health with Amazon Comprehend Medical](https://www.youtube.com/watch?v=x9HD0tT6pDk)
 - [Build accurate training datasets with Amazon SageMaker Ground Truth](https://www.youtube.com/watch?v=6WJxzKsIFKA)
+- [How Amazon Sagemaker can help?](https://www.aws.training/Details/Video?id=49646&trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
 
 ### Tutorials
 
@@ -309,6 +314,23 @@ Enable, Provision, and Operate at scale by using AWS Control Tower for your acco
 
 - [Architecting security & governance across your landing zone](https://www.youtube.com/watch?v=zVJnenaD3U8)
 - [Deep dive into AWS Cloud Development Kit](https://www.youtube.com/watch?v=9As_ZIjUGmY)
+
+## Genomics
+### Tutorials
+
+### General Information
+
+### Workshops
+
+### Blogs
+
+- [A generalized approach to benchmarking genomics workloads in the cloud](https://aws.amazon.com/blogs/publicsector/generalized-approach-benchmarking-genomics-workloads-cloud-bwa-read-aligner-graviton2/?trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certifica)
+- [Using Amazon FSx for Lustre for Genomics Workflows on AWS](https://aws.amazon.com/blogs/storage/using-amazon-fsx-for-lustre-for-genomics-workflows-on-aws/?trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
+
+
+### Videos
+
+
 
 ### Tutorials
 
