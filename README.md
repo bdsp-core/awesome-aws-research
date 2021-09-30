@@ -29,6 +29,7 @@ Learn all about core services available for compute, storage, networking, and ho
 - [Open Data Registry on AWS](https://registry.opendata.aws/)
 - [Amazon Science](https://www.amazon.science/)
 - [AWS Training & Certificaton Free Cloud Essentials Digital Training](https://www.aws.training/LearningLibrary?filters=language%3A1&filters=digital%3A1&filters=classification%3A101&search=&tab=view_all)
+- [AWS Innovation Sandbox](https://aws.amazon.com/solutions/implementations/aws-innovation-sandbox/?did=sl_card&trk=sl_card)
 
 ### Tutorials
 
@@ -36,6 +37,10 @@ Learn all about core services available for compute, storage, networking, and ho
 - [Store and Retrieve a file](https://aws.amazon.com/getting-started/tutorials/backup-files-to-amazon-s3/?trk=gs_card&e=gs&p=gsrc)
 - [Host Static Web Site](https://aws.amazon.com/getting-started/projects/host-static-website/?trk=gs_card)
 - [Controlling Costs with Free tier and Budgets](https://aws.amazon.com/getting-started/tutorials/control-your-costs-free-tier-budgets/?trk=gs_card)
+- (Set up HIPAA Reference Architecture on AWS](https://aws.amazon.com/quickstart/architecture/compliance-hipaa/)
+- [FHIRWorks on AWS](https://aws.amazon.com/solutions/implementations/fhir-works-on-aws/?did=sl_card&trk=sl_card)
+- [Service Workbench on AWS](https://aws.amazon.com/solutions/implementations/service-workbench-on-aws/?did=sl_card&trk=sl_card)
+- [HITRUST on AWS](https://aws.amazon.com/quickstart/architecture/compliance-hitrust/)
 
 ### Services
 
@@ -152,6 +157,8 @@ Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, 
 - [MLOps with Amazon SageMaker](https://github.com/aws-samples/amazon-sagemaker-devops-with-ml)
 - [Object Detection from scratch with Amazon SageMaker](https://github.com/aws-samples/amazon-sagemaker-object-detection-from-scratch)
 - [Elastic Inference Object Detection with Amazon SageMaker](https://github.com/aws-samples/aws-elastic-inference-tensorflow-examples)
+- [Document Understanding Solution](https://aws.amazon.com/solutions/implementations/document-understanding-solution/?did=sl_card&trk=sl_card)
+- [AI-Powered Health Data Masking](https://aws.amazon.com/solutions/implementations/ai-powered-health-data-masking/?did=sl_card&trk=sl_card)
 
 ### Blogs
 
@@ -184,6 +191,7 @@ Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, 
 - [Introduction to Amazon Comprehend Medical](https://www.aws.training/Details/Video?id=27159&trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
 - [Enabling efficient patient care using Amazon AI services](https://aws.amazon.com/blogs/industries/enabling-efficient-patient-care-using-amazon-ai-services/?trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
 - [Population health applications with Amazon HealthLake](https://aws.amazon.com/blogs/machine-learning/population-health-applications-with-amazon-healthlake-part-1-analytics-and-monitoring-using-amazon-quicksight/)
+
 
 ### Videos
 
@@ -318,7 +326,6 @@ Enable, Provision, and Operate at scale by using AWS Control Tower for your acco
 - [Deep dive into AWS Cloud Development Kit](https://www.youtube.com/watch?v=9As_ZIjUGmY)
 
 ## Genomics
-### Tutorials
 
 ### General Information
 
@@ -335,6 +342,10 @@ Enable, Provision, and Operate at scale by using AWS Control Tower for your acco
 
 
 ### Tutorials
+- [Genomics Secondary Analysis Using AWS Step Functions and AWS Batch] (https://aws.amazon.com/solutions/implementations/genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/?did=sl_card&trk=sl_card)
+- [Hail on AWS](https://aws.amazon.com/quickstart/architecture/hail/)
+- [Genomics Tertiary Analysis and Data Lakes Using AWS Glue and Amazon Athena](https://aws.amazon.com/solutions/implementations/genomics-tertiary-analysis-and-data-lakes-using-aws-glue-and-amazon-athena/?did=sl_card&trk=sl_card)
+- [Genomics Tertiary Analysis and Machine Learning Using Amazon SageMaker](https://aws.amazon.com/solutions/implementations/genomics-tertiary-analysis-and-machine-learning-using-amazon-sagemaker/?did=sl_card&trk=sl_card)
 
 
 ## Contribute
