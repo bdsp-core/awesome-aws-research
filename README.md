@@ -37,7 +37,7 @@ Learn all about core services available for compute, storage, networking, and ho
 - [Store and Retrieve a file](https://aws.amazon.com/getting-started/tutorials/backup-files-to-amazon-s3/?trk=gs_card&e=gs&p=gsrc)
 - [Host Static Web Site](https://aws.amazon.com/getting-started/projects/host-static-website/?trk=gs_card)
 - [Controlling Costs with Free tier and Budgets](https://aws.amazon.com/getting-started/tutorials/control-your-costs-free-tier-budgets/?trk=gs_card)
-- (Set up HIPAA Reference Architecture on AWS](https://aws.amazon.com/quickstart/architecture/compliance-hipaa/)
+- [Set up HIPAA Reference Architecture on AWS](https://aws.amazon.com/quickstart/architecture/compliance-hipaa/)
 - [FHIRWorks on AWS](https://aws.amazon.com/solutions/implementations/fhir-works-on-aws/?did=sl_card&trk=sl_card)
 - [Service Workbench on AWS](https://aws.amazon.com/solutions/implementations/service-workbench-on-aws/?did=sl_card&trk=sl_card)
 - [HITRUST on AWS](https://aws.amazon.com/quickstart/architecture/compliance-hitrust/)
