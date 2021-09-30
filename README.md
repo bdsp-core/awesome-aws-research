@@ -169,6 +169,7 @@ Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, 
 - [Amazon SageMaker automatic model tuning now supports random search and hyperparameter scaling](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-random-search-and-hyperparameter-scaling/)
 - [Architecting ML with Amazon SageMaker 3 day course](https://github.com/aws-samples/amazon-sagemaker-architecting-for-ml)
 - [Classification of chest x-rays with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/classifying-high-resolution-chest-x-ray-medical-images-with-amazon-sagemaker/)
+- [Building predictive disease models using Amazon SageMaker with Amazon HealthLake normalized data](https://aws.amazon.com/blogs/machine-learning/building-predictive-disease-models-using-amazon-sagemaker-with-amazon-healthlake-normalized-data/)
 
 #### AI Services 
 - [Amazon Rekognition custom labels](https://aws.amazon.com/blogs/machine-learning/announcing-amazon-rekognition-custom-labels/)
@@ -182,6 +183,7 @@ Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, 
 - [Introduction to Amazon Transcribe](https://www.aws.training/Details/Video?id=19443&trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
 - [Introduction to Amazon Comprehend Medical](https://www.aws.training/Details/Video?id=27159&trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
 - [Enabling efficient patient care using Amazon AI services](https://aws.amazon.com/blogs/industries/enabling-efficient-patient-care-using-amazon-ai-services/?trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
+- [Population health applications with Amazon HealthLake](https://aws.amazon.com/blogs/machine-learning/population-health-applications-with-amazon-healthlake-part-1-analytics-and-monitoring-using-amazon-quicksight/)
 
 ### Videos
 
