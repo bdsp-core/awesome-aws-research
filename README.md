@@ -342,7 +342,7 @@ Enable, Provision, and Operate at scale by using AWS Control Tower for your acco
 
 
 ### Tutorials
-- [Genomics Secondary Analysis Using AWS Step Functions and AWS Batch] (https://aws.amazon.com/solutions/implementations/genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/?did=sl_card&trk=sl_card)
+- [Genomics Secondary Analysis Using AWS Step Functions and AWS Batch](https://aws.amazon.com/solutions/implementations/genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/?did=sl_card&trk=sl_card)
 - [Hail on AWS](https://aws.amazon.com/quickstart/architecture/hail/)
 - [Genomics Tertiary Analysis and Data Lakes Using AWS Glue and Amazon Athena](https://aws.amazon.com/solutions/implementations/genomics-tertiary-analysis-and-data-lakes-using-aws-glue-and-amazon-athena/?did=sl_card&trk=sl_card)
 - [Genomics Tertiary Analysis and Machine Learning Using Amazon SageMaker](https://aws.amazon.com/solutions/implementations/genomics-tertiary-analysis-and-machine-learning-using-amazon-sagemaker/?did=sl_card&trk=sl_card)
